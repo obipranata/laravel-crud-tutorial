@@ -10,7 +10,7 @@ Project ini dibuat untuk kebutuhan pembelajaran dasar Laravel agar mudah dipaham
 
 Sebelum menjalankan project ini, pastikan sudah install:
 
-* PHP >= 8.1
+* PHP >= 8.2
 * Composer
 * MySQL / MariaDB
 * Node.js & NPM (opsional)
