@@ -96,6 +96,48 @@ http://127.0.0.1:8000
 
 ---
 
+## 🐘 Optional: Menggunakan Laravel Herd
+
+Jika kamu menggunakan **Laravel Herd**, kamu tidak perlu menjalankan:
+
+```bash
+php artisan serve
+```
+
+---
+
+### Cara Menjalankan Project di Herd
+
+Masuk ke folder project:
+
+```bash
+cd laravel-crud-tutorial
+```
+
+Lalu jalankan:
+
+```bash
+herd link
+```
+
+---
+
+### Akses di Browser
+
+Buka:
+
+```
+http://laravel-crud-tutorial.test
+```
+
+---
+
+### Catatan
+
+* Pastikan aplikasi Herd sedang berjalan
+* Tidak perlu `php artisan serve` jika menggunakan Herd
+
+
 ## ✨ Features
 
 * Create data
